@@ -5,7 +5,14 @@ Designed the calculator in Excel VBA by using a userform and some tools like a f
 Screenshots
 
 
+
 ![Capture](https://github.com/Maithri-Hegde/Excel_VBA_Calculator/assets/81279183/5abedace-ff24-49ea-9aed-7cce3b9297a3)
+
+
+
+
+
+
 
 
 ![Capture1](https://github.com/Maithri-Hegde/Excel_VBA_Calculator/assets/81279183/bfce69e7-7187-4434-9513-4761ac1ef29b)
